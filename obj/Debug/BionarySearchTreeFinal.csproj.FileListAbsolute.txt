@@ -1,0 +1,7 @@
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\bin\Debug\BionarySearchTreeFinal.exe.config
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\bin\Debug\BionarySearchTreeFinal.exe
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\bin\Debug\BionarySearchTreeFinal.pdb
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\obj\Debug\BionarySearchTreeFinal.csprojResolveAssemblyReference.cache
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\obj\Debug\BionarySearchTreeFinal.csproj.CoreCompileInputs.cache
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\obj\Debug\BionarySearchTreeFinal.exe
+C:\Users\ztrai\source\repos\BionarySearchTreeFinal\BionarySearchTreeFinal\obj\Debug\BionarySearchTreeFinal.pdb
